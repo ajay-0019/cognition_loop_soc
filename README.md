@@ -148,7 +148,7 @@ You already have the Groq tool-use docs and Playwright docs from Week 2 — reus
 Keeping this week's resources a bit lite , Let's majorly focus on the coding tasks.
 We build the loop from scratch — no LangChain, no LlamaIndex. It is about 30 lines, and every framework is just a wrapper around it.
 
-Setup is the same as Week 2 (same `.env`, same Groq key, same model). Now go to `README_TASKS.md`.
+Setup is the same as Week 2 (same `.env`, same Groq key, same model). Now go to `WEEK3_TASKS.md`.
 
 
 
